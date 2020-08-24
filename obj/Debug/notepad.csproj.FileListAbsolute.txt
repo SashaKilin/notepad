@@ -1,0 +1,14 @@
+C:\Users\а\Desktop\C#\notepad\notepad\bin\Debug\notepad.exe.config
+C:\Users\а\Desktop\C#\notepad\notepad\bin\Debug\notepad.exe
+C:\Users\а\Desktop\C#\notepad\notepad\bin\Debug\notepad.pdb
+C:\Users\а\Desktop\C#\notepad\notepad\obj\Debug\notepad.csprojAssemblyReference.cache
+C:\Users\а\Desktop\C#\notepad\notepad\obj\Debug\notepad.Form1.resources
+C:\Users\а\Desktop\C#\notepad\notepad\obj\Debug\notepad.Properties.Resources.resources
+C:\Users\а\Desktop\C#\notepad\notepad\obj\Debug\notepad.csproj.GenerateResource.cache
+C:\Users\а\Desktop\C#\notepad\notepad\obj\Debug\notepad.csproj.CoreCompileInputs.cache
+C:\Users\а\Desktop\C#\notepad\notepad\obj\Debug\notepad.exe
+C:\Users\а\Desktop\C#\notepad\notepad\obj\Debug\notepad.pdb
+C:\Users\а\Desktop\C#\notepad\notepad\bin\Debug\notepad.exe.manifest
+C:\Users\а\Desktop\C#\notepad\notepad\bin\Debug\notepad.application
+C:\Users\а\Desktop\C#\notepad\notepad\obj\Debug\notepad.exe.manifest
+C:\Users\а\Desktop\C#\notepad\notepad\obj\Debug\notepad.application
